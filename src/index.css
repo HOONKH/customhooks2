@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dura {
+  --animate-duration: 0.5s;
+}
+.dura2 {
+  --animate-duration: 2s;
+}
+.dura3 {
+  --animate-duration: 4s;
+}
